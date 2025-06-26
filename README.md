@@ -42,3 +42,8 @@
 ```python
 import numpy as np
 print(np.array([1, 2, 3]) ** 2)
+<img width="1377" alt="截图2-PyCharm运行" src="https://github.com/user-attachments/assets/bab33d78-d880-44aa-9f8d-b45c809182d9" />
+<img width="1377" alt="截图2-PyCharm运行" src="https://github.com/user-attachments/assets/bab33d78-d880-44aa-9f8d-b45c809182d9" />
+##  我最喜欢的环境管理工具是 conda
+![截图1-终端操作](https://github.com/user-attachments/assets/03a33dc2-cbfe-47f8-a80c-19eb02e8d410)
+![截图1-终端操作](https://github.com/user-attachments/assets/03a33dc2-cbfe-47f8-a80c-19eb02e8d410)
